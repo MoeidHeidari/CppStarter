@@ -1,0 +1,3 @@
+cmake_minimum_requiered(version 3.8.2)
+
+project(CPP_STARTER version 1.0.0 LANGUAGES CXX)
