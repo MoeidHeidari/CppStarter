@@ -1,6 +1,7 @@
-cmake_minimum_requiered(version 3.8.2)
+cmake_minimum_required(VERSION 3.12)
 
-project(CPP_STARTER version 1.0.0 LANGUAGES CXX)
+
+project(CPP_STARTER VERSION 1.0.0.0 LANGUAGES CXX)
 
 
 #-------------------------------------------------------
@@ -29,7 +30,7 @@ find_lto(CXX)
 # --------------------------------------------------------------------------------
 #                         Locate files (change as needed).
 # --------------------------------------------------------------------------------
-set(SOURCES src/*.cpp)
+set(SOURCES src/Foo.cpp)
 set(TESTFILES tests/main.cpp)
 
 set(LIBRARY_NAME myLibrary)

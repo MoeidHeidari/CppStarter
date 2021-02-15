@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/main.dir/app/main.cpp.o CMakeFiles/myLibrary.dir/src/Foo.cpp.o  -o main 

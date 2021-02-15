@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/unit_tests.dir/main.cpp.o CMakeFiles/unit_tests.dir/dummy.cpp.o ../CMakeFiles/myLibrary.dir/src/Foo.cpp.o  -o ../unit_tests 

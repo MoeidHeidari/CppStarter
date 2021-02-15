@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andromeda/Documents/CppStarter/tests/dummy.cpp
+doctest.h
+/home/andromeda/Documents/CppStarter/tests/doctest.h
+example.h
+/home/andromeda/Documents/CppStarter/tests/example.h
+
+/home/andromeda/Documents/CppStarter/tests/main.cpp
+doctest.h
+/home/andromeda/Documents/CppStarter/tests/doctest.h
+
